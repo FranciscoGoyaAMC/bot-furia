@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+python-dotenv
+crewai
+crewai[tools]
+pydantic<3.0
