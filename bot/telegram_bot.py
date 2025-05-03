@@ -31,7 +31,7 @@ async def start(update: Update, context: CallbackContext) -> None:
             "/jogos - Consultar os próximos jogos do time\n"
             "/elenco - Conhecer o elenco da FURIA\n"
             "/loja - Ver produtos exclusivos da FURIA\n"
-            "/conteudo - Se cadastrar para conteúdos exclusivos!"
+            "/pergunta - Fazer uma pergunta ao bot"
         )
         
         # Se o usuário tem nome de usuário, adicionar na mensagem
