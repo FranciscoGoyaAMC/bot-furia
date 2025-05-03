@@ -3,3 +3,4 @@ python-dotenv
 crewai
 crewai[tools]
 pydantic<3.0
+numpy==1.26.4
