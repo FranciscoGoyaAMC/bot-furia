@@ -55,7 +55,6 @@ async def help(update: Update, context: CallbackContext) -> None:
                                     "/loja - Ver lançamentos recentes dos produtos\n"
                                     "/pergunta - Fazer uma pergunta ao bot\n"
     )
-    
 # Comando /noticias
 async def noticias(update: Update, context: CallbackContext) -> None:
     user_message = update.message.text
